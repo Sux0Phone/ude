@@ -3,10 +3,6 @@
 You can use the [editor on GitHub](https://github.com/Sux0Phone/ude/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 [FAQ1](faq)
-[FAQ2](faq.md)
-[FAQ3]()
-[FAQ4]()
-[FAQ5]()
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
