@@ -6,4 +6,5 @@
 [Список команд](commands)  
 [Roadmap](roadmap)
 
-SuxOPhone, 2022
+Discord: SuxOPhone 🎷#2315
+**SuxOPhone, 2022**
